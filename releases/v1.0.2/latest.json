@@ -1,0 +1,18 @@
+{
+  "version": "1.0.2",
+  "pub_date": "2026-06-19T16:54:24.408Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaVRLNm0vN25GT0dkbGhwR2hNZ2RDbFRveUY0YytkcVBnU1dHL0t4S3RqTm42bHJEcWNWelpkVEN5MjVBOExZOEZTMGxiZkJWb21wYUQrOVlFclYwbk1EcEdjRjQ0TWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODg3ODc5CWZpbGU6U2NyZWVuIFRyYW5zbGF0b3IuYXBwLnRhci5negp1K3hucy9pakpSZjBJM3BOL0t4Y1pqbEtOSDJDMi91WW1WQnZ6dy9OV21LR3I5a2wyUGZQQm1KOUZ2cWJKeXUxSFAxYVE5NTdLaEpOQ0EweWpCdmtBZz09Cg==",
+      "url": "https://github.com/dev-truonglx/app-translate-releases/releases/download/v1.0.2/Screen%20Translator.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaVRLNm0vN25GT0dkbGhwR2hNZ2RDbFRveUY0YytkcVBnU1dHL0t4S3RqTm42bHJEcWNWelpkVEN5MjVBOExZOEZTMGxiZkJWb21wYUQrOVlFclYwbk1EcEdjRjQ0TWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODg3ODc5CWZpbGU6U2NyZWVuIFRyYW5zbGF0b3IuYXBwLnRhci5negp1K3hucy9pakpSZjBJM3BOL0t4Y1pqbEtOSDJDMi91WW1WQnZ6dy9OV21LR3I5a2wyUGZQQm1KOUZ2cWJKeXUxSFAxYVE5NTdLaEpOQ0EweWpCdmtBZz09Cg==",
+      "url": "https://github.com/dev-truonglx/app-translate-releases/releases/download/v1.0.2/Screen%20Translator.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaVRLNm0vN25GT0hOVXRoaW9TOWpidUFZbFYzOVE3UWlhZWNrdWpTS3AycUJUL0EwU2tnb1JNM1NZZDBtVjY3aGV5L3RVa2tGdmVUK2cwQ0VQSExUODBiRVZ1YmdoakFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODg4MDQ5CWZpbGU6U2NyZWVuIFRyYW5zbGF0b3JfMS4wLjJfeDY0LXNldHVwLmV4ZQpLeHlzaVBqZytVbnZRL1hOVWdlVWFWaXJSNHh4ajNvZ3l2SExMSDd0MUpVSU80R0haN0prOUllaHVPMHRobWJMS2QzMUlKSTdYbHIrdzZKNXBLQ0NEUT09Cg==",
+      "url": "https://github.com/dev-truonglx/app-translate-releases/releases/download/v1.0.2/Screen%20Translator_1.0.2_x64-setup.exe"
+    }
+  }
+}
